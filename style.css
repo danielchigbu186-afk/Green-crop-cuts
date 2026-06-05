@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom transitions for hero images or elements */
+.transition-slow {
+    transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Ensure images maintain aspect ratio while loading */
+img {
+    content-visibility: auto;
+}

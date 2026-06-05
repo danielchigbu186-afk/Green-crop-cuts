@@ -1,0 +1,4 @@
+# robots.txt for GreenCrop Cuts
+User-agent: *
+Allow: /
+Sitemap: https://greencropcuts.com/sitemap.xml
