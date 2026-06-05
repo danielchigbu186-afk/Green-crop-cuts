@@ -1,6 +1,6 @@
-# GreenCrop Cuts Website
+# Steady Cut Lawns Website
 
-Professional, mobile-responsive landing page for GreenCrop Cuts lawn mowing service.
+Professional, mobile-responsive landing page for Steady Cut Lawns lawn mowing service.
 
 ## Deployment
 

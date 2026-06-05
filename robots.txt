@@ -1,4 +1,4 @@
-# robots.txt for GreenCrop Cuts
+# robots.txt for Steady Cut Lawns
 User-agent: *
 Allow: /
-Sitemap: https://greencropcuts.com/sitemap.xml
+Sitemap: https://steadycutlawns.com/sitemap.xml

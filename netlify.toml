@@ -2,8 +2,8 @@
   publish = "."
 
 [[redirects]]
-  from = "https://www.greencropcuts.com/*"
-  to = "https://greencropcuts.com/:splat"
+  from = "https://www.steadycutlawns.com/*"
+  to = "https://steadycutlawns.com/:splat"
   status = 301
   force = true
 
